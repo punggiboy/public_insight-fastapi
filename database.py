@@ -1,4 +1,4 @@
-# 데이터베이스 접속, 세션 생성, Base 선언, 
+# 데이터베이스 접속, 세션 생성, Base 선언
 
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
